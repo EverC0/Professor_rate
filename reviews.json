@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Introduction to Computer Science",
+        "stars": 4,
+        "review": "Great professor, explains concepts clearly and is very approachable."
+      },
+      {
+        "professor": "Dr. Jane Doe",
+        "subject": "Data Structures",
+        "stars": 5,
+        "review": "Amazing lectures and very helpful during office hours."
+      },
+      {
+        "professor": "Dr. Alan Turing",
+        "subject": "Algorithms",
+        "stars": 3,
+        "review": "Challenging course, but the professor is knowledgeable."
+      },
+      {
+        "professor": "Dr. Grace Hopper",
+        "subject": "Computer Systems",
+        "stars": 4,
+        "review": "Very organized and always available to help."
+      },
+      {
+        "professor": "Dr. Ada Lovelace",
+        "subject": "Discrete Mathematics",
+        "stars": 5,
+        "review": "Incredible teacher, made complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Barbara Liskov",
+        "subject": "Software Engineering",
+        "stars": 2,
+        "review": "Course was too fast-paced, and the professor was hard to follow."
+      },
+      {
+        "professor": "Dr. Donald Knuth",
+        "subject": "The Art of Computer Programming",
+        "stars": 4,
+        "review": "A very challenging course, but highly rewarding."
+      },
+      {
+        "professor": "Dr. Tim Berners-Lee",
+        "subject": "Web Development",
+        "stars": 3,
+        "review": "Good content, but the assignments were overwhelming."
+      },
+      {
+        "professor": "Dr. Margaret Hamilton",
+        "subject": "Software Design",
+        "stars": 5,
+        "review": "Excellent course with a lot of practical examples."
+      },
+      {
+        "professor": "Dr. Dennis Ritchie",
+        "subject": "Operating Systems",
+        "stars": 4,
+        "review": "Very knowledgeable professor, but the course is tough."
+      },
+      {
+        "professor": "Dr. Ken Thompson",
+        "subject": "Unix Systems Programming",
+        "stars": 3,
+        "review": "Course content is good, but lectures can be dry."
+      },
+      {
+        "professor": "Dr. Larry Page",
+        "subject": "Search Engine Optimization",
+        "stars": 5,
+        "review": "Innovative and engaging lectures, highly recommended."
+      },
+      {
+        "professor": "Dr. Sergey Brin",
+        "subject": "Machine Learning",
+        "stars": 4,
+        "review": "Great course, but requires a strong math background."
+      },
+      {
+        "professor": "Dr. Elon Musk",
+        "subject": "Entrepreneurship in Technology",
+        "stars": 5,
+        "review": "Inspirational and motivating, learned a lot about startups."
+      },
+      {
+        "professor": "Dr. Satya Nadella",
+        "subject": "Cloud Computing",
+        "stars": 4,
+        "review": "Good course, but requires a lot of self-study."
+      },
+      {
+        "professor": "Dr. Sundar Pichai",
+        "subject": "Artificial Intelligence",
+        "stars": 3,
+        "review": "Interesting content, but the pace was too fast."
+      },
+      {
+        "professor": "Dr. Steve Wozniak",
+        "subject": "Computer Architecture",
+        "stars": 4,
+        "review": "Very practical course, learned a lot about hardware."
+      },
+      {
+        "professor": "Dr. Jeff Bezos",
+        "subject": "E-Commerce",
+        "stars": 5,
+        "review": "Excellent insights into the e-commerce industry."
+      },
+      {
+        "professor": "Dr. Mark Zuckerberg",
+        "subject": "Social Media Technologies",
+        "stars": 3,
+        "review": "Good content, but could be more interactive."
+      },
+      {
+        "professor": "Dr. Sheryl Sandberg",
+        "subject": "Leadership in Tech",
+        "stars": 4,
+        "review": "Great course on leadership, very engaging discussions."
+      }
+    ]
+  }
+  
